@@ -106,3 +106,5 @@ venv.bak/
 # mill.mat file
 
 *.mat
+
+*logs/
